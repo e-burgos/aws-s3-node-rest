@@ -5,6 +5,6 @@
     "AWS_SECRET_KEY": "fiLG8IoomNEoA1gyIrjtj4YYM0b0+7+nq3C0xX2j",
     "AWS_BUCKET_NAME": "desa-pepe-pepe",
     "AWS_REGION": "GRIDBSAS",
-    "NON_PROD_URL": "https://objs3dev.santander.com.ar:10443"
+    "NON_PROD_URL": "https://example.com.ar:10443"
   }
 }
